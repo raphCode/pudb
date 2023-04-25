@@ -128,6 +128,7 @@ Keys in breakpoints list:
     b - toggle breakpoint
     d - delete breakpoint
     e - edit breakpoint
+    s - save breakpoints to file
 
 Other keys:
     j/k - down/up
